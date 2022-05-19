@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julius-Java
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web development (front-end)
-- 💞️ I’m looking to collaborate on frone-end webdev project
+- 💞️ I’m looking to collaborate on front-end webdev project
 - 📫 How to reach me emmanueljulius9102016@gmail.com
 
 <!---
