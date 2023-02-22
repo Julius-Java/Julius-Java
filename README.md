@@ -4,7 +4,7 @@ I'm a web developer with experience building websites using HTML, CSS, Bootstrap
 
 ## 🔭 Current Projects
 
-- [BIRTHDAY PADDI](#): Birthday Paddi is a web app that stores users birthday info, consumes an SMS API and sends users birthday wishes on their birthday.
+- [BIRTHDAY PADDI](#): Birthday Paddi is a web app that stores users birthday info, consumes an SMS API and sends users birthday wishes on their birthdays automatically.
 
 ## 🌱 What I'm currently learning
 
