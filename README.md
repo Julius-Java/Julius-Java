@@ -1,4 +1,4 @@
-# Hi there, I'm [Julius Emmanuel]!
+# Hi there, I'm Julius Emmanuel!
 
 I'm a web developer with experience building websites using HTML, CSS, Bootstrap, JS, jQuery, Node, Express, and MongoDB. I'm passionate about creating clean, user-friendly interfaces that provide a great user experience.
 
