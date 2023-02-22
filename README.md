@@ -20,8 +20,8 @@ I'm a web developer with experience building websites using HTML, CSS, Bootstrap
 
 ## 📫 How to reach me
 
-- Email: [EMAIL ADDRESS](mailto:emmanueljulius192021@gmail.com)
-- LinkedIn: [LINKEDIN USERNAME](https://www.linkedin.com/in/julius-emmanuel-873019172/)
+- Email: [E-mail Address](mailto:emmanueljulius192021@gmail.com)
+- LinkedIn: [Julius Emmanuel](https://www.linkedin.com/in/julius-emmanuel-873019172/)
 
 ## ⚡ Fun fact
 
