@@ -1,31 +1,20 @@
-# Hi there, I'm Julius Emmanuel!
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<h1 align="center">Emmanuel Julius</h1>
+<h3 align="center">Frontend React JS Developer</h3>
+<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-I'm a web developer with experience building websites using HTML, CSS, Bootstrap, JS, jQuery, Node, Express, and MongoDB. I'm passionate about creating clean, user-friendly interfaces that provide a great user experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Julius-Java&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
 
-## 🔭 Current Projects
+<p align="left"> <a href="https://twitter.com/julius_java00" target="blank"><img src="https://img.shields.io/twitter/follow/julius_java00?logo=twitter&style=for-the-badge" alt="Julius" /></a> </p>
 
-- [BIRTHDAY PADDI](#): Birthday Paddi is a web app that stores users birthday info, consumes an SMS API and sends users birthday wishes on their birthdays automatically.
+- 🔭 I’m working on **Projects with React JS, SCSS / Tailwind CSS**
 
-## 🌱 What I'm currently learning
+- 🌱 I’m also learning **Tailwind & Next JS**
 
-- [REACT JS](https://reactjs.org/): React is a JavaScript library for building modular and scalable user interfaces. Created by Facebook, it allows developers to easily create complex UI components using a declarative programming model. React is often used in conjunction with other libraries and tools to build full-featured web applications..
+- 💬 You can ask me about **HTML, CSS, Javascript & React JS**
 
-## 👯 Looking to collaborate on
+- 📫 How to reach me **juliusjava00@gmail.com**
 
-- [FRONT-END PROJECTS](#): I would really love to work and collaborate with other awesome developers on front-end projects.
+- ⚡ Fun fact **I'm a very curious person that always wants to know how something works and why**
 
-## 💬 Ask me about
-
-- [ANYTHING WEB DEVELOPMENT](#): You can ask me about anything web and web development.
-
-## 📫 How to reach me
-
-- Email: [E-mail Address](mailto:emmanueljulius192021@gmail.com)
-- LinkedIn: [Julius Emmanuel](https://www.linkedin.com/in/julius-emmanuel-873019172/)
-
-## ⚡ Fun fact
-
-- FUN FACT: Curiosity supercharges my existence.
-
-
-
+- 🔭 I'm a member of **NewDev Platform - An awesome space for all Developers to stay accountable and collaborate**
