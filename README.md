@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/julius_java00" target="blank"><img src="https://img.shields.io/twitter/follow/julius_java00?logo=twitter&style=for-the-badge" alt="Julius" /></a> </p>
 
-- 🔭 I’m working on **Projects with React JS, SCSS / Tailwind CSS**
+- 🔭 I’m working on **Projects with Next JS + React JS, SCSS / Tailwind CSS**
 
-- 🌱 I’m also learning **Tailwind CSS & Next JS**
+- 🌱 I’m currently learning about **Optimizing Javascript Web applications - (Industry Standard Best Practices)**
 
 - 💬 You can ask me about **HTML, CSS, Javascript & React JS**
 
 - 📫 How to reach me **juliusjava00@gmail.com**
 
-- ⚡ Fun fact **I'm a very curious person that always wants to know how something works and why**
+- ⚡ Fun fact **I'm a very curious person that always wants to know how and why something works to the last detail**
 
 - 🔭 I'm a member of **NewDev Platform - An awesome space for all Developers to stay accountable and collaborate**
 
